@@ -75,7 +75,7 @@ highlight Operator ctermfg=13 guifg=#c586c0 cterm=NONE gui=NONE
 highlight RegEx ctermfg=1 guifg=#d16969 cterm=NONE gui=NONE
 highlight String ctermfg=3 guifg=#ce9178 cterm=NONE gui=NONE
 highlight Storage ctermfg=4 guifg=#569cd6 cterm=NONE gui=NONE
-highlight Language ctermfg=4 guifg=#569cd6 cterm=italic gui=italic
+highlight Language ctermfg=4 guifg=#569CD6 cterm=italic gui=italic
 highlight Type ctermfg=6 guifg=#4ec9b0 cterm=NONE gui=NONE
 highlight Var ctermfg=6 guifg=#9cdcfe cterm=NONE gui=NONE
 highlight Tags ctermfg=7 guifg=#808080 cterm=NONE gui=NONE
